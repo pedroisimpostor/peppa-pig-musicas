@@ -1,0 +1,41 @@
+.divvelocidade{
+    width: 20px; 
+    margin-left: 200px;
+}
+.foto{
+    width: 200px;
+    margin-left: 1000px;
+}
+.foto2{
+    width: 200px;
+    margin-right: 1000px;
+    margin-top: -230px;
+}
+.reproduzir{
+    margin-right: 80px;
+    background-color: rgb(34, 14, 221);
+}
+.peppabotãodemusica{
+    margin-top: -230px;
+}
+.peppabotãodevelocidade{
+    margin: 190px;
+    margin-right: 2200px;
+    margin-top: 500;
+    margin-bottom: 50px;
+}
+.peppabotãodevolume{
+    margin: 30px;
+    margin-right: -900px; 
+    margin-top: 30px;
+    margin-bottom: 200px;
+}
+.volume{
+    background-color: rgb(255, 0, 0);
+    font-size: 30px;
+    margin-top: -300px;
+}
+.velocidade{
+    background-color: rgb(255, 0, 0);
+    font-size: 30px;
+}
